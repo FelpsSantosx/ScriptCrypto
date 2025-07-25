@@ -1,0 +1,29 @@
+# .gitignore
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Python virtual environments
+venv/
+ENV/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Git
+*.swp
+*.swo
+
+
